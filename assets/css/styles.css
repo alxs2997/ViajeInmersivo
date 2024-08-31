@@ -1084,5 +1084,6 @@ input {
   }
   .home__container, .home__img {
     height: 640px;
+    background-position: top center;
   }
 }
