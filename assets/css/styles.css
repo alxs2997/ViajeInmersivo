@@ -1086,3 +1086,9 @@ input {
     height: 640px;
   }
 }
+
+@media (max-width: 768px) {
+            .home__img {
+                background-image: url('assets/img/home_mobile.png');
+            }
+        }
